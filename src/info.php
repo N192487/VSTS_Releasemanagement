@@ -1,5 +1,5 @@
 <?php
 phpinfo();
 //
-usleep(500000);
+//usleep(500000);
 ?>
